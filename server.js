@@ -31,8 +31,8 @@ app.get('/jwtid', requireAuth, (req, res) => {
 });
 
 // routes
-app.use('/mern-project-master.herokuapp.com/user', userRoutes);
-app.use('/mern-project-master.herokuapp.com/post', postRoutes);
+app.use('/user', userRoutes);
+app.use('/post', postRoutes);
 
 // server
 app.listen(process.env.PORT, () => {
