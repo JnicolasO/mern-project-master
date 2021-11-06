@@ -28,5 +28,5 @@ _____________________________
 ![Alt text](./client/public/img/screenshot.jpg "Screenshot")
 
   
-💻 Made by Julien Az, November 2020. Free to use 
+💻 Made by Nicolas Fayolle
 "# mern-project-master" 
